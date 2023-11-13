@@ -7,7 +7,7 @@ const About = () => {
       {/* about wrapper */}
       <div className="about">
         <div className="about-img-holder">
-          <img src="./assets/img/foto-profile.jpg" className="about-img" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
+          <img src="https://github.com/gsloing/web-profile/blob/master/src/assets/img/foto-profil.jpg?raw=true" className="about-img" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
         </div>
         <div className="about-caption">
           <p className="section-subtitle">Who Am I ?</p>

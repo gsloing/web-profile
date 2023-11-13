@@ -8,7 +8,7 @@ const Hobbies = () => {
       <div className="row">
         <div className="col-md-4">
           <a href="#" className="portfolio-card">
-            <img src="C:/Users/acer/Documents/singingg.jpg" className="portfolio-card-img" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
+            <img src="https://github.com/gsloing/web-profile/blob/master/src/assets/img/singingg.jpg?raw=true" className="portfolio-card-img" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
             <span className="portfolio-card-overlay">
               <span className="portfolio-card-caption">
                 <h4>Singing</h4>
@@ -18,7 +18,7 @@ const Hobbies = () => {
         </div>
         <div className="col-md-4">
           <a href="#" className="portfolio-card">
-            <img className="portfolio-card-img" src="C:/Users/acer/Documents/cookingg.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
+            <img className="portfolio-card-img" src="https://github.com/gsloing/web-profile/blob/master/src/assets/img/cookingg.jpg?raw=true" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
             <span className="portfolio-card-overlay">
               <span className="portfolio-card-caption">
                 <h4>Cooking</h4>
@@ -28,7 +28,7 @@ const Hobbies = () => {
         </div>
         <div className="col-md-4">
           <a href="#" className="portfolio-card">
-            <img className="portfolio-card-img" src="C:/Users/acer/Documents/photography.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
+            <img className="portfolio-card-img" src="https://github.com/gsloing/web-profile/blob/master/src/assets/img/photography.jpg?raw=true" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page" />
             <span className="portfolio-card-overlay">
               <span className="portfolio-card-caption">
                 <h4>Photography</h4>
